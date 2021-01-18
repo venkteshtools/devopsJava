@@ -1,3 +1,3 @@
-# devopsJava
-JAVA DEVOPS
-Fist Commit
+# maven-project
+
+Simple Maven Project
